@@ -1,14 +1,13 @@
+body {
+  margin: 0;
+}
+
 .App {
-  font-family: sans-serif;
+  font-family: "Maitree", serif;
   text-align: center;
+  color: #43a047;
 }
 
-a {
-  color: white;
-  text-decoration: none;
+h1 {
+  margin-bottom: 0;
 }
-
-.active {
-  color:red;
-  }
-  
